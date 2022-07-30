@@ -1,0 +1,15 @@
+public class Main
+{
+	public static void main(String[] args) {
+	
+	  int hight = 190;  
+	  
+	  if (hight > 160) {
+	     System.out.println("let him join the ride");
+	     
+	  } else if (hight<160){
+	      System.out.println("you can't join the ride");
+	  }
+	  
+	}
+}
